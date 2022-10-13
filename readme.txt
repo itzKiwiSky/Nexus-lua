@@ -1,4 +1,4 @@
-My sh*t programming languagem written in lua
+My sh*t programming language written in lua
 CASMBBXD (Clone assembly but bad XD)
 
 This language inspired by brainfuck and assembly, is able to manipulate 256 memory cells, generating characters based
