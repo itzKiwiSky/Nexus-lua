@@ -2,7 +2,7 @@ My sh*t programming languagem written in lua
 CASMBBXD (Clone assembly but bad XD)
 
 This language inspired by brainfuck and assembly, is able to manipulate 256 memory cells, generating characters based
-on 512 chars range.
+on 255 chars range.
 I don't have plans to continue updating this project, when all commands is totally coded and functional I will not
 commit more to this project, but made it open source <3
 This is not a serious project, is just a simple test and challenge for me.
